@@ -5,7 +5,7 @@
   <p>Basicamente o usuário vai ter um formulário de suporte, onde vai digitar seu nome e seu e-mail e logo em seguida, vai digitar um mensagem para o suporte</p>
 
   <h2>Contém Apenas Duas Partes <br></h2>
-  <h4>HTML:<p>A primeira parte é o HTML onde eu formo todo elemento que vou querer que tenha no formulário como título, nome do usuário, E-mail, mensagem e botão de enviar</p></h4>
+  <h4>HTML:<p>A primeira parte é o HTML onde eu formo todo elemento vai ter tenha no formulário como título, nome do usuário, E-mail, mensagem e botão de enviar</p></h4>
 
   <h4>CSS: <p>E a segundo e última parte é o CSS onde dou estilização pro formulário como fontes, cores e toda organização</p></h4>
 
